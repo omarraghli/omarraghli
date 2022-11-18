@@ -30,3 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omarraghli&show_icons=true&locale=en" alt="omarraghli" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omarraghli&" alt="omarraghli" /></p>
+
+![snake gif](https://github.com/omarraghli/omarraghli/blob/output/github-contribution-grid-snake.gif)
