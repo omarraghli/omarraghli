@@ -28,7 +28,3 @@
 <p align="center">&nbsp;<img width="70%" src="https://github-readme-stats.vercel.app/api?username=omarraghli&show_icons=true&locale=en" alt="omarraghli" /></p>
 
 <p align="center"><img width="70%"  src="https://github-readme-streak-stats.herokuapp.com/?user=omarraghli&" alt="omarraghli" /></p>
-
-
-<img src="https://github.com/omarraghli/omarraghli/blob/output/github-contribution-grid-snake.gif" alt="drawing" width="100%"/>
-
